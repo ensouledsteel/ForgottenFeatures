@@ -16,7 +16,7 @@
     "environment": "*",
     "entrypoints": {
         "main": [
-            "com.ensouledsteel.forgottenfeatures.ForgottenFeatures"
+          "net.ensouledsteel.forgottenfeatures.ForgottenFeatures"
         ]
     },
     "mixins": [
